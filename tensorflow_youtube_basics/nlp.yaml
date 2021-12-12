@@ -1,0 +1,9 @@
+name: nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - tensorflow-gpu
+  - notebook
+  - jupyterthemes
+prefix: C:\Users\rajah\anaconda3\envs\nlp
